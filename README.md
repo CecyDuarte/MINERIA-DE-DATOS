@@ -1,7 +1,10 @@
 # MINERIA-DE-DATOS
+## Fase I
 
-##Fase-1
 
-##Fase-2
 
-##Fase-3
+## Fase II
+
+
+## Fase III
+
