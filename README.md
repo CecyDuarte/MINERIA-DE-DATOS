@@ -3,7 +3,7 @@
 ## Fase-1
 
 
-[Mapa Mental I](https://github.com/CecyDuarte/MINERIA-DE-DATOS/blob/main/Tareas/Mapa%20Mental.pdf)
+[Mapa Mental I](https://github.com/CecyDuarte/MINERIA-DE-DATOS/blob/main/Tareas/Mapa%20Mental_1_1937881.pdf)
 
 
  
