@@ -8,5 +8,7 @@
 
  
 ## Fase-2
+[Base de datos](https://github.com/EmmanuelGalvan/MineriaDatos/blob/main/Archivos/Ej1_BasesDatos_Equipo_9%20.pdf)
+
 
 ## Fase-3
