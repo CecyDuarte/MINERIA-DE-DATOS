@@ -11,7 +11,7 @@
 
 
 
-[Ejercicios Basicos de Python](https://github.com/CecyDuarte/MINERIA-DE-DATOS/blob/main/Tareas/EjerciciosBasicosPython1.ipynb)
+[Ejercicios Basicos de Python](https://github.com/CecyDuarte/MINERIA-DE-DATOS/blob/main/Tareas/Ej_Python_1937881.ipynb)
 
  
 ## Fase-2
