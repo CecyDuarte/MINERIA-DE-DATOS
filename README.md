@@ -13,6 +13,6 @@
 ## Fase-2
 * [Presentación de técnicas: Métricas de evaluación](https://github.com/EmmanuelGalvan/MineriaDatos/blob/main/Archivos/Presentaci%C3%B3n_M%C3%A9tricas_de_evaluaci%C3%B3n_Equipo9.pdf)
 * [Resultados Kahoot](https://github.com/EmmanuelGalvan/MineriaDatos/blob/main/Archivos/Resultados%20Kahoot-Metr%C3%ADcas%20de%20Evaluaci%C3%B3n.pdf)
-
+* [Mapa Mental 2](https://github.com/CecyDuarte/MINERIA-DE-DATOS/blob/main/Tareas/MapaMental_2_%7B1937881%7D.pdf)
 
 ## Fase-3
