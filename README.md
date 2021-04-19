@@ -16,4 +16,5 @@
 * [Mapa Mental 2](https://github.com/CecyDuarte/MINERIA-DE-DATOS/blob/main/Tareas/MapaMental_2_%7B1937881%7D.pdf)
 * [Práctica de Visualización](https://github.com/EmmanuelGalvan/MineriaDatos/blob/main/Archivos/Practica%20de%20limpieza/Visualizacion_Equipo9.ipynb)
 * [Segunda entrega del PIA](https://github.com/EmmanuelGalvan/MineriaDatos/blob/main/Archivos/PIA/AvancePIA_II_Grupo3_Equipo9.ipynb)
+* [Segunda entrega del PIA_Versión 2](https://github.com/EmmanuelGalvan/MineriaDatos/blob/main/Archivos/PIA/AvancePIA_II_Grupo3_Equipo9%20-%20V2.ipynb)
 ## Fase-3
